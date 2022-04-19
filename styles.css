@@ -74,9 +74,6 @@
   background-color: #755FFA;
   border-radius: 35px;
 }
-#footer h5 {
-  color: white;
-}
 @media (max-width:360px) {
   .logo img {
     width:100px;
